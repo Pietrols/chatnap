@@ -106,7 +106,7 @@ npm run db:migrate
 npm run dev
 ```
 
-The backend will run on `http://localhost:3001`.
+The backend will run on `http://localhost:3001`
 
 ### 4. Frontend Setup
 
@@ -124,7 +124,7 @@ cp .env.example .env
 npm run dev
 ```
 
-The frontend will run on `http://localhost:5173`.
+The frontend will run on `http://localhost:5173`
 
 ## Environment Variables
 
@@ -233,7 +233,7 @@ model Message {
 
 ### Frontend
 
-1. Update `VITE_API_URL` to point to your backend
+1. Update `VITE_API_URL`  to point to your backend
 2. Run `npm run build`
 3. Deploy the `dist` folder to a static hosting service
 
